@@ -4,6 +4,16 @@
 A group of Python scripts, which encapsulate different approximations made for modelling the formation of giant planets in protoplanetary discs.
 
 
+## Data
+
+The data the scripts use.
+
+
+## Plots
+
+The outputted plots from the scripts of this project.
+
+
 ## Scripts
 
 ### IsoT_Model.py
@@ -50,13 +60,3 @@ A function to find where the optical depth is equal to 1 for a given envelope (u
 A list of functions allowing a user to plot data outputted from the previous scripts.
 ### Test.py
 The script used to run all the previous classes and functions to output the plots in the “Plots” folder.
-
-
-## Data
-
-The data the scripts used.
-
-
-## Plots
-
-The outputted plots from the scripts of this project.
