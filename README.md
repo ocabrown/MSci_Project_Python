@@ -31,7 +31,7 @@ This is the same as “IsoO_Model.py”, but uses an opacity profile taken from 
 ### GPF_Movshovitz_Opacity.py
 The same as “GPF_Movshovitz_Opacity_Forced.py” but where the convective/radiative boundaries arise naturally from the Schwarzschild criterion. This tested our implementation of the Schwarzschild criterion was accurate is our plots could be compared to the Movshovitz 2010 paper plots.
 ### Freedman_Opacities_Function.py
-A function to return the opacities calculated from the analytic fit from the Freedman et al 2014 paper.
+A function to return the opacities calculated from the analytic fit from the Freedman et al. 2014 paper.
 ### GPF_Freedman_Opacity.py
 A class much like “GPF_Movshovitz_Opacity.py”, but using the Freedman opacity function to describe the opacity. There now is included a Brent’s method to find the temperature and opacity value for a given grid point simultaneously (as the opacity and temperature are now dependent upon one another).
 ### L_Finder_FreO.py
